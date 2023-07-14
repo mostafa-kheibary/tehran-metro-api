@@ -1,0 +1,1432 @@
+{
+  "Tajrish": [
+    {
+      "en": "Qeytariye",
+      "fa": "قیطریه"
+    }
+  ],
+  "Qeytariye": [
+    {
+      "en": "Tajrish",
+      "fa": "تجریش"
+    },
+    {
+      "en": "Shahid Sadra",
+      "fa": "شهید صدر"
+    }
+  ],
+  "Shahid Sadra": [
+    {
+      "en": "Qeytariye",
+      "fa": "قیطریه"
+    },
+    {
+      "en": "Qolhak",
+      "fa": "قلهک"
+    }
+  ],
+  "Qolhak": [
+    {
+      "en": "Shahid Sadra",
+      "fa": "شهید صدر"
+    },
+    {
+      "en": "Dr. Shariati",
+      "fa": "دکتر شریعتی"
+    }
+  ],
+  "Dr. Shariati": [
+    {
+      "en": "Qolhak",
+      "fa": "قلهک"
+    },
+    {
+      "en": "Mirdamad",
+      "fa": "میرداماد"
+    }
+  ],
+  "Mirdamad": [
+    {
+      "en": "Dr. Shariati",
+      "fa": "دکتر شریعتی"
+    },
+    {
+      "en": "Shahid Hakani",
+      "fa": "شهید حقانی"
+    }
+  ],
+  "Shahid Hakani": [
+    {
+      "en": "Mirdamad",
+      "fa": "میرداماد"
+    },
+    {
+      "en": "Shahid Hemat",
+      "fa": "شهید همت"
+    }
+  ],
+  "Shahid Hemat": [
+    {
+      "en": "Shahid Hakani",
+      "fa": "شهید حقانی"
+    },
+    {
+      "en": "Mosalla-ye Imam Khomeini",
+      "fa": "مصلی امام خمینی"
+    }
+  ],
+  "Mosalla-ye Imam Khomeini": [
+    {
+      "en": "Shahid Hemat",
+      "fa": "شهید همت"
+    },
+    {
+      "en": "Shahid Beheshti",
+      "fa": "شهید بهشتی"
+    }
+  ],
+  "Shahid Beheshti": [
+    {
+      "en": "Mosalla-ye Imam Khomeini",
+      "fa": "مصلی امام خمینی"
+    },
+    {
+      "en": "Sohrevardi",
+      "fa": "سهروردی"
+    },
+    {
+      "en": "Mirza-ye Shirazi",
+      "fa": "سهروردی"
+    },
+    {
+      "en": "Shahid Moftah",
+      "fa": "شهید مفتح"
+    }
+  ],
+  "Shahid Moftah": [
+    {
+      "en": "Shahid Beheshti",
+      "fa": "شهید بهشتی"
+    },
+    {
+      "en": "Shohada-ye Haftom-e Tir",
+      "fa": "شهدای هفتم تیر"
+    }
+  ],
+  "Ayatollah Taleghani": [
+    {
+      "en": "Shohada-ye Haftom-e Tir",
+      "fa": "شهدای هفتم تیر"
+    },
+    {
+      "en": "Darvazeh Dolat",
+      "fa": "دروازه دولت"
+    }
+  ],
+  "Darvazeh Dolat": [
+    {
+      "en": "Ayatollah Taleghani",
+      "fa": "آیت الله طالقانی"
+    },
+    {
+      "en": "Ferdowsi",
+      "fa": "فردوسی"
+    },
+    {
+      "en": "Darvazeh Shemiran",
+      "fa": "دروازده شمیران"
+    },
+    {
+      "en": "Saadi",
+      "fa": "سعدی"
+    }
+  ],
+  "Saadi": [
+    {
+      "en": "Darvazeh Dolat",
+      "fa": "دروازه دولت"
+    },
+    {
+      "en": "Imam Khomeini",
+      "fa": "امام خمینی"
+    }
+  ],
+  "Imam Khomeini": [
+    {
+      "en": "Saadi",
+      "fa": "سعدی"
+    },
+    {
+      "en": "Hasan Abad",
+      "fa": "حسن آباد"
+    },
+    {
+      "en": "Mellat",
+      "fa": "ملت"
+    },
+    {
+      "en": "Panzdah-e Khordad",
+      "fa": "پانزده خرداد"
+    }
+  ],
+  "Panzdah-e Khordad": [
+    {
+      "en": "Imam Khomeini",
+      "fa": "امام خمینی"
+    },
+    {
+      "en": "Khayyam",
+      "fa": "خیام"
+    }
+  ],
+  "Khayyam": [
+    {
+      "en": "Panzdah-e Khordad",
+      "fa": "پانزده خرداد"
+    },
+    {
+      "en": "Meydan-e Mohammadiyeh",
+      "fa": "میدان محمدیه"
+    }
+  ],
+  "Meydan-e Mohammadiyeh": [
+    {
+      "en": "Khayyam",
+      "fa": "خیام"
+    },
+    {
+      "en": "Mahdiyeh",
+      "fa": "مهدیه"
+    },
+    {
+      "en": "Mowlavi",
+      "fa": "مولوی"
+    },
+    {
+      "en": "Shush",
+      "fa": "شوش"
+    }
+  ],
+  "Shush": [
+    {
+      "en": "Meydan-e Mohammadiyeh",
+      "fa": "میدان محمدیه"
+    },
+    {
+      "en": "South Terminal",
+      "fa": "پایانه جنوب"
+    }
+  ],
+  "South Terminal": [
+    {
+      "en": "Shush",
+      "fa": "شوش"
+    },
+    {
+      "en": "Shahid Bakhari",
+      "fa": "شهید بخارایی"
+    }
+  ],
+  "Shahid Bakhari": [
+    {
+      "en": "South Terminal",
+      "fa": "پایانه جنوب"
+    },
+    {
+      "en": "Aliabad",
+      "fa": "علی‌آباد"
+    }
+  ],
+  "Aliabad": [
+    {
+      "en": "Shahid Bakhari",
+      "fa": "شهید بخارایی"
+    },
+    {
+      "en": "Javanmard-e Ghassab",
+      "fa": "جوانمرد قصاب"
+    }
+  ],
+  "Javanmard-e Ghassab": [
+    {
+      "en": "Aliabad",
+      "fa": "علی‌آباد"
+    },
+    {
+      "en": "Shahr-e Rey",
+      "fa": "شهرری"
+    }
+  ],
+  "Shahr-e Rey": [
+    {
+      "en": "Javanmard-e Ghassab",
+      "fa": "جوانمرد قصاب"
+    },
+    {
+      "en": "Palayeshgah",
+      "fa": "پالایشگاه"
+    }
+  ],
+  "Palayeshgah": [
+    {
+      "en": "Shahr-e Rey",
+      "fa": "شهرری"
+    },
+    {
+      "en": "Shahed - BagherShahr",
+      "fa": "شاهد - باقرشهر"
+    }
+  ],
+  "Shahed - BagherShahr": [
+    {
+      "en": "Palayeshgah",
+      "fa": "پالایشگاه"
+    },
+    {
+      "en": "Namayeshgah-e Shahr-e Aftab",
+      "fa": "نمایشگاه شهر آفتاب"
+    },
+    {
+      "en": "Holy Shrine of Imam Khomeini",
+      "fa": "حرم مطهر امام خمینی"
+    }
+  ],
+  "Namayeshgah-e Shahr-e Aftab": [
+    {
+      "en": "Shahed - BagherShahr",
+      "fa": "شاهد - باقرشهر"
+    },
+    {
+      "en": "Emam Khomeini Airport",
+      "fa": "فرودگاه امام خمینی"
+    }
+  ],
+  "Emam Khomeini Airport": [
+    {
+      "en": "Namayeshgah-e Shahr-e Aftab",
+      "fa": "نمایشگاه شهر آفتاب"
+    }
+  ],
+  "Holy Shrine of Imam Khomeini": [
+    {
+      "en": "Shahed - BagherShahr",
+      "fa": "شاهد - باقرشهر"
+    },
+    {
+      "en": "Kahrizak",
+      "fa": "کهریزک"
+    }
+  ],
+  "Kahrizak": [
+    {
+      "en": "Holy Shrine of Imam Khomeini",
+      "fa": "حرم مطهر امام خمینی"
+    }
+  ],
+  "Farhangsara": [
+    {
+      "en": "Tehranpars",
+      "fa": "تهرانپارس"
+    }
+  ],
+  "Tehranpars": [
+    {
+      "en": "Farhangsara",
+      "fa": "فرهنگسرا"
+    },
+    {
+      "en": "Shahid Bagheri",
+      "fa": "شهید باقری"
+    }
+  ],
+  "Shahid Bagheri": [
+    {
+      "en": "Tehranpars",
+      "fa": "تهرانپارس"
+    },
+    {
+      "en": "Daneshgah-e Elm va Sanat",
+      "fa": "دانشگاه علم و صنعت"
+    }
+  ],
+  "Daneshgah-e Elm va Sanat": [
+    {
+      "en": "Shahid Bagheri",
+      "fa": "شهید باقری"
+    },
+    {
+      "en": "Sarsabz",
+      "fa": "سرسبز"
+    }
+  ],
+  "Sarsabz": [
+    {
+      "en": "Daneshgah-e Elm va Sanat",
+      "fa": "دانشگاه علم و صنعت"
+    },
+    {
+      "en": "Janbazan",
+      "fa": "جانبازان"
+    }
+  ],
+  "Janbazan": [
+    {
+      "en": "Sarsabz",
+      "fa": "سرسبز"
+    },
+    {
+      "en": "Fadak",
+      "fa": "فدک"
+    }
+  ],
+  "Fadak": [
+    {
+      "en": "Janbazan",
+      "fa": "جانبازان"
+    },
+    {
+      "en": "Sabalan",
+      "fa": "سبلان"
+    }
+  ],
+  "Sabalan": [
+    {
+      "en": "Fadak",
+      "fa": "فدک"
+    },
+    {
+      "en": "Shahid Madani",
+      "fa": "شهید مدنی"
+    }
+  ],
+  "Shahid Madani": [
+    {
+      "en": "Sabalan",
+      "fa": "سبلان"
+    },
+    {
+      "en": "Imam Hussein",
+      "fa": "امام حسین"
+    }
+  ],
+  "Imam Hussein": [
+    {
+      "en": "Shahid Madani",
+      "fa": "شهید مدنی"
+    },
+    {
+      "en": "Shohada-ye Haftom-e Tir",
+      "fa": "شهدای هفتم تیر"
+    },
+    {
+      "en": "Meydan-e Shohada",
+      "fa": "میدان شهدا"
+    },
+    {
+      "en": "Darvazeh Shemiran",
+      "fa": "دروازه شمیران"
+    }
+  ],
+  "Darvazeh Shemiran": [
+    {
+      "en": "Imam Hussein",
+      "fa": "امام حسین"
+    },
+    {
+      "en": "Meydan-e Shohada",
+      "fa": "میدان شهدا"
+    },
+    {
+      "en": "Darvazeh Dolat",
+      "fa": "دروازه دولت"
+    },
+    {
+      "en": "Baharistan",
+      "fa": "بهارستان"
+    }
+  ],
+  "Baharistan": [
+    {
+      "en": "Darvazeh Shemiran",
+      "fa": "دروازه شمیران"
+    },
+    {
+      "en": "Mellat",
+      "fa": "ملت"
+    }
+  ],
+  "Mellat": [
+    {
+      "en": "Baharistan",
+      "fa": "بهارستان"
+    },
+    {
+      "en": "Imam Khomeini",
+      "fa": "امام خمینی"
+    }
+  ],
+  "Hasan Abad": [
+    {
+      "en": "Imam Khomeini",
+      "fa": "امام خمینی"
+    },
+    {
+      "en": "Daneshgah-e Imam Ali",
+      "fa": "دانشگاه امام علی"
+    }
+  ],
+  "Daneshgah-e Imam Ali": [
+    {
+      "en": "Hasan Abad",
+      "fa": "حسن‌آباد"
+    },
+    {
+      "en": "Meydan-e Har",
+      "fa": "میدان حر"
+    }
+  ],
+  "Meydan-e Har": [
+    {
+      "en": "Daneshgah-e Imam Ali",
+      "fa": "دانشگاه امام علی"
+    },
+    {
+      "en": "Shahid Navab-e Safavi",
+      "fa": "شهید نواب صفوی"
+    }
+  ],
+  "Shahid Navab-e Safavi": [
+    {
+      "en": "Meydan-e Har",
+      "fa": "میدان حر"
+    },
+    {
+      "en": "Towhid",
+      "fa": "توحید"
+    },
+    {
+      "en": "Roudaki",
+      "fa": "رودکی"
+    },
+    {
+      "en": "Shademan",
+      "fa": "شادمان"
+    }
+  ],
+  "Shademan": [
+    {
+      "en": "Shahid Navab-e Safavi",
+      "fa": "شهید نواب صفوی"
+    },
+    {
+      "en": "Towhid",
+      "fa": "توحید"
+    },
+    {
+      "en": "Doctor Habibollah",
+      "fa": "دکتر حبیب الله"
+    },
+    {
+      "en": "Daneshgah-e Sharif",
+      "fa": "دانشگاه شریف"
+    }
+  ],
+  "Daneshgah-e Sharif": [
+    {
+      "en": "Shademan",
+      "fa": "شادمان"
+    },
+    {
+      "en": "Tarasht",
+      "fa": "طرشت"
+    }
+  ],
+  "Tarasht": [
+    {
+      "en": "Daneshgah-e Sharif",
+      "fa": "دانشگاه شریف"
+    },
+    {
+      "en": "Tehran (Sadeghiyeh)",
+      "fa": "تهران (صادقیه)"
+    }
+  ],
+  "Tehran (Sadeghiyeh)": [
+    {
+      "en": "Tarasht",
+      "fa": "طرشت"
+    },
+    {
+      "en": "Eram-e Sabz",
+      "fa": "ارم سبز"
+    }
+  ],
+  "Qa'em": [
+    {
+      "en": "Shahid Mahallati",
+      "fa": "شهید محلاتی"
+    }
+  ],
+  "Shahid Mahallati": [
+    {
+      "en": "Qa'em",
+      "fa": "قائم"
+    },
+    {
+      "en": "Eqtesadiyeh",
+      "fa": "اقدسیه"
+    }
+  ],
+  "Eqtesadiyeh": [
+    {
+      "en": "Shahid Mahallati",
+      "fa": "شهید محلاتی"
+    },
+    {
+      "en": "Nobonyad",
+      "fa": "نوبنیاد"
+    }
+  ],
+  "Nobonyad": [
+    {
+      "en": "Eqtesadiyeh",
+      "fa": "اقدسیه"
+    },
+    {
+      "en": "Hoseinabad",
+      "fa": "حسین‌آباد"
+    }
+  ],
+  "Hoseinabad": [
+    {
+      "en": "Nobonyad",
+      "fa": "نوبنیاد"
+    },
+    {
+      "en": "Meydan-e Haravi",
+      "fa": "میدان هروی"
+    }
+  ],
+  "Meydan-e Haravi": [
+    {
+      "en": "Hoseinabad",
+      "fa": "حسین‌آباد"
+    },
+    {
+      "en": "Shahid Zeynoddin",
+      "fa": "شهید زین‌الدین"
+    }
+  ],
+  "Shahid Zeynoddin": [
+    {
+      "en": "Meydan-e Haravi",
+      "fa": "میدان هروی"
+    },
+    {
+      "en": "Khaje Abdollah Ansari",
+      "fa": "خواجه عبدالله انصاری"
+    }
+  ],
+  "Khaje Abdollah Ansari": [
+    {
+      "en": "Shahid Zeynoddin",
+      "fa": "شهید زین‌الدین"
+    },
+    {
+      "en": "Shahid Sayyad Shirazi",
+      "fa": "شهید صیاد شیرازی"
+    }
+  ],
+  "Shahid Sayyad Shirazi": [
+    {
+      "en": "Khaje Abdollah Ansari",
+      "fa": "خواجه عبدالله انصاری"
+    },
+    {
+      "en": "Shahid Ghodousi",
+      "fa": "شهید قدوسی"
+    }
+  ],
+  "Shahid Ghodousi": [
+    {
+      "en": "Shahid Sayyad Shirazi",
+      "fa": "شهید صیاد شیرازی"
+    },
+    {
+      "en": "Sohrevardi",
+      "fa": "سهروردی"
+    }
+  ],
+  "Sohrevardi": [
+    {
+      "en": "Shahid Ghodousi",
+      "fa": "شهید قدوسی"
+    },
+    {
+      "en": "Shahid Beheshti",
+      "fa": "شهید بهشتی"
+    }
+  ],
+  "Mirza-ye Shirazi": [
+    {
+      "en": "Shahid Beheshti",
+      "fa": "شهید بهشتی"
+    },
+    {
+      "en": "Meydan-e Jahad",
+      "fa": "میدان جهاد"
+    }
+  ],
+  "Meydan-e Jahad": [
+    {
+      "en": "Mirza-ye Shirazi",
+      "fa": "میرزای شیرازی"
+    },
+    {
+      "en": "Meydan-e Hazrat Vali Asr",
+      "fa": "میدان حضرت ولی‌عصر"
+    }
+  ],
+  "Teatr-e Shahr": [
+    {
+      "en": "Meydan-e Hazrat Vali Asr",
+      "fa": "میدان حضرت ولی‌عصر"
+    },
+    {
+      "en": "Ferdowsi",
+      "fa": "فردوسی"
+    },
+    {
+      "en": "Meydan-e Enghelab-e Eslami",
+      "fa": "میدان انقلاب اسلامی"
+    },
+    {
+      "en": "Moniriyeh",
+      "fa": "منیریه"
+    }
+  ],
+  "Moniriyeh": [
+    {
+      "en": "Teatr-e Shahr",
+      "fa": "تئاتر شهر"
+    },
+    {
+      "en": "Mahdiyeh",
+      "fa": "مهدیه"
+    }
+  ],
+  "Mahdiyeh": [
+    {
+      "en": "Moniriyeh",
+      "fa": "منیریه"
+    },
+    {
+      "en": "Meydan-e Mohammadiyeh",
+      "fa": "میدان محمدیه"
+    },
+    {
+      "en": "Helal Ahmar",
+      "fa": "هلال احمر"
+    },
+    {
+      "en": "Rahahan",
+      "fa": "راه‌آهن"
+    }
+  ],
+  "Rahahan": [
+    {
+      "en": "Mahdiyeh",
+      "fa": "مهدیه"
+    },
+    {
+      "en": "Javadiyeh",
+      "fa": "جوادیه"
+    }
+  ],
+  "Javadiyeh": [
+    {
+      "en": "Rahahan",
+      "fa": "راه‌آهن"
+    },
+    {
+      "en": "Zamzam",
+      "fa": "زمزم"
+    }
+  ],
+  "Zamzam": [
+    {
+      "en": "Javadiyeh",
+      "fa": "جوادیه"
+    },
+    {
+      "en": "Shahrak-e Shariaty",
+      "fa": "شهرک شریعتی"
+    }
+  ],
+  "Shahrak-e Shariaty": [
+    {
+      "en": "Zamzam",
+      "fa": "زمزم"
+    },
+    {
+      "en": "Abdol Abad",
+      "fa": "عبدل‌آباد"
+    }
+  ],
+  "Abdol Abad": [
+    {
+      "en": "Shahrak-e Shariaty",
+      "fa": "شهرک شریعتی"
+    },
+    {
+      "en": "Nemat Abad",
+      "fa": "نعمت‌آباد"
+    }
+  ],
+  "Nemat Abad": [
+    {
+      "en": "Abdol Abad",
+      "fa": "عبدل‌آباد"
+    },
+    {
+      "en": "Azadegan",
+      "fa": "آزادگان"
+    }
+  ],
+  "Azadegan": [
+    {
+      "en": "Nemat Abad",
+      "fa": "نعمت‌آباد"
+    }
+  ],
+  "Shahid Kolahdooz": [
+    {
+      "en": "Niroohavaii",
+      "fa": "نیروهوایی"
+    }
+  ],
+  "Niroohavaii": [
+    {
+      "en": "Shahid Kolahdooz",
+      "fa": "شهید کلاهدوز"
+    },
+    {
+      "en": "Nobard",
+      "fa": "نبرد"
+    }
+  ],
+  "Nobard": [
+    {
+      "en": "Niroohavaii",
+      "fa": "نیروهوایی"
+    },
+    {
+      "en": "Piroozi",
+      "fa": "پیروزی"
+    }
+  ],
+  "Piroozi": [
+    {
+      "en": "Nobard",
+      "fa": "نبرد"
+    },
+    {
+      "en": "Ebn-e Sina",
+      "fa": "ابن سینا"
+    }
+  ],
+  "Ebn-e Sina": [
+    {
+      "en": "Piroozi",
+      "fa": "پیروزی"
+    },
+    {
+      "en": "Meydan-e Shohada",
+      "fa": "میدان شهدا"
+    }
+  ],
+  "Ferdowsi": [
+    {
+      "en": "Darvazeh Dolat",
+      "fa": "دروازه دولت"
+    },
+    {
+      "en": "Teatr-e Shahr",
+      "fa": "تئاتر شهر"
+    }
+  ],
+  "Meydan-e Enghelab-e Eslami": [
+    {
+      "en": "Teatr-e Shahr",
+      "fa": "تئاتر شهر"
+    },
+    {
+      "en": "Towhid",
+      "fa": "توحید"
+    }
+  ],
+  "Towhid": [
+    {
+      "en": "Meydan-e Enghelab-e Eslami",
+      "fa": "میدان انقلاب اسلامی"
+    },
+    {
+      "en": "Modafean-e Salamat",
+      "fa": "مدافعان سلامت"
+    },
+    {
+      "en": "Shahid Navab-e Safavi",
+      "fa": "شهید نواب صفوی"
+    },
+    {
+      "en": "Shademan",
+      "fa": "شادمان"
+    }
+  ],
+  "Doctor Habibollah": [
+    {
+      "en": "Shademan",
+      "fa": "شادمان"
+    },
+    {
+      "en": "Ostad Mo'in",
+      "fa": "استاد معین"
+    }
+  ],
+  "Ostad Mo'in": [
+    {
+      "en": "Doctor Habibollah",
+      "fa": "دکتر حبیب‌الله"
+    },
+    {
+      "en": "Meydan-e Azadi",
+      "fa": "میدان آزادی"
+    }
+  ],
+  "Meydan-e Azadi": [
+    {
+      "en": "Ostad Mo'in",
+      "fa": "استاد معین"
+    },
+    {
+      "en": "Bimeh",
+      "fa": "بیمه"
+    }
+  ],
+  "Bimeh": [
+    {
+      "en": "Meydan-e Azadi",
+      "fa": "میدان آزادی"
+    },
+    {
+      "en": "Shahrak-e Ekbatan",
+      "fa": "شهرک اکباتان"
+    },
+    {
+      "en": "Mehrabad Airport Terminal 1&2",
+      "fa": "پایانه 1 و 2 فرودگاه مهرآباد"
+    }
+  ],
+  "Mehrabad Airport Terminal 1&2": [
+    {
+      "en": "Bimeh",
+      "fa": "بیمه"
+    },
+    {
+      "en": "Mehrabad Airport Terminal 4&6",
+      "fa": "پایانه 4 و 6 فرودگاه مهرآباد"
+    }
+  ],
+  "Mehrabad Airport Terminal 4&6": [
+    {
+      "en": "Mehrabad Airport Terminal 1&2",
+      "fa": "پایانه 1 و 2 فرودگاه مهرآباد"
+    }
+  ],
+  "Shahrak-e Ekbatan": [
+    {
+      "en": "Bimeh",
+      "fa": "بیمه"
+    },
+    {
+      "en": "Eram-e Sabz",
+      "fa": "ارم سبز"
+    }
+  ],
+  "Eram-e Sabz": [
+    {
+      "en": "Tehran (Sadeghiyeh)",
+      "fa": "تهران (صادقیه)"
+    },
+    {
+      "en": "Shahrak-e Ekbatan",
+      "fa": "شهرک اکباتان"
+    },
+    {
+      "en": "Varzeshgah-e Azadi",
+      "fa": "ورزشگاه آزادی"
+    }
+  ],
+  "Varzeshgah-e Azadi": [
+    {
+      "en": "Eram-e Sabz",
+      "fa": "ارم سبز"
+    },
+    {
+      "en": "Chitgar",
+      "fa": "چیتگر"
+    }
+  ],
+  "Chitgar": [
+    {
+      "en": "Varzeshgah-e Azadi",
+      "fa": "ورزشگاه آزادی"
+    },
+    {
+      "en": "Iran Khodro",
+      "fa": "ایران خودرو"
+    }
+  ],
+  "Iran Khodro": [
+    {
+      "en": "Chitgar",
+      "fa": "چیتگر"
+    },
+    {
+      "en": "Vardavard",
+      "fa": "وردآورد"
+    }
+  ],
+  "Vardavard": [
+    {
+      "en": "Iran Khodro",
+      "fa": "ایران خودرو"
+    },
+    {
+      "en": "Garmdareh",
+      "fa": "گرم‌دره"
+    }
+  ],
+  "Garmdareh": [
+    {
+      "en": "Vardavard",
+      "fa": "وردآورد"
+    },
+    {
+      "en": "Atmosphere",
+      "fa": "اتمسفر"
+    }
+  ],
+  "Atmosphere": [
+    {
+      "en": "Garmdareh",
+      "fa": "گرم‌دره"
+    },
+    {
+      "en": "Karaj",
+      "fa": "کرج"
+    }
+  ],
+  "Karaj": [
+    {
+      "en": "Atmosphere",
+      "fa": "اتمسفر"
+    },
+    {
+      "en": "Mohammadshahr",
+      "fa": "محمدشهر"
+    }
+  ],
+  "Mohammadshahr": [
+    {
+      "en": "Karaj",
+      "fa": "کرج"
+    },
+    {
+      "en": "Golshahr",
+      "fa": "گلشهر"
+    }
+  ],
+  "Golshahr": [
+    {
+      "en": "Mohammadshahr",
+      "fa": "محمدشهر"
+    },
+    {
+      "en": "Shahid Sepahbod Qasem Soleimani",
+      "fa": "شهید سپهبد قاسم سلیمانی"
+    }
+  ],
+  "Shahid Sepahbod Qasem Soleimani": [
+    {
+      "en": "Golshahr",
+      "fa": "گلشهر"
+    }
+  ],
+  "Haram-e Hazrat-e Abdol Azim": [
+    {
+      "en": "Meydan-e Hazrat-e Abdol Azim",
+      "fa": "میدان حضرت ابدل عظیم"
+    }
+  ],
+  "Meydan-e Hazrat-e Abdol Azim": [
+    {
+      "en": "Haram-e Hazrat-e Abdol Azim",
+      "fa": "حرم حضرت ابدل عظیم"
+    },
+    {
+      "en": "Ebn-e Babviyeh",
+      "fa": "ابن باویه"
+    }
+  ],
+  "Ebn-e Babviyeh": [
+    {
+      "en": "Meydan-e Hazrat-e Abdol Azim",
+      "fa": "میدان حضرت ابدل عظیم"
+    },
+    {
+      "en": "Cheshmeh Ali",
+      "fa": "چشمه علی"
+    }
+  ],
+  "Cheshmeh Ali": [
+    {
+      "en": "Ebn-e Babviyeh",
+      "fa": "ابن باویه"
+    },
+    {
+      "en": "Dowlat Abad",
+      "fa": "دولت آباد"
+    }
+  ],
+  "Dowlat Abad": [
+    {
+      "en": "Cheshmeh Ali",
+      "fa": "چشمه علی"
+    },
+    {
+      "en": "Kiyan Shahr",
+      "fa": "کیان‌شهر"
+    }
+  ],
+  "Kiyan Shahr": [
+    {
+      "en": "Dowlat Abad",
+      "fa": "شهدای دولت‌آباد"
+    },
+    {
+      "en": "Be'sat",
+      "fa": "بعثت"
+    }
+  ],
+  "Be'sat": [
+    {
+      "en": "Kiyan Shahr",
+      "fa": "کیان‌شهر"
+    },
+    {
+      "en": "Shahid Rezaei",
+      "fa": "شهید رضایی"
+    }
+  ],
+  "Shahid Rezaei": [
+    {
+      "en": "Be'sat",
+      "fa": "بعثت"
+    },
+    {
+      "en": "Amirkabir",
+      "fa": "امیرکبیر"
+    }
+  ],
+  "Amirkabir": [
+    {
+      "en": "Shahid Rezaei",
+      "fa": "شهید رضایی"
+    },
+    {
+      "en": "Meydan-e Shohada",
+      "fa": "میدان شهدا"
+    }
+  ],
+  "Meydan-e Shohada": [
+    {
+      "en": "Amirkabir",
+      "fa": "امیرکبیر"
+    },
+    {
+      "en": "Ebn-e Sina",
+      "fa": "ابن سینا"
+    },
+    {
+      "en": "Darvazeh Shemiran",
+      "fa": "دروازه شمیران"
+    },
+    {
+      "en": "Imam Hussein",
+      "fa": "امام حسین"
+    }
+  ],
+  "Shohada-ye Haftom-e Tir": [
+    {
+      "en": "Imam Hussein",
+      "fa": "امام حسین"
+    },
+    {
+      "en": "Meydan-e Hazrat Vali Asr",
+      "fa": "میدان حضرت ولی عصر"
+    },
+    {
+      "en": "Shahid Moftah",
+      "fa": "شهید مفتح"
+    },
+    {
+      "en": "Ayatollah Taleghani",
+      "fa": "آیت الله طالقانی"
+    }
+  ],
+  "Meydan-e Hazrat Vali Asr": [
+    {
+      "en": "Shohada-ye Haftom-e Tir",
+      "fa": "شهدای هفتم تیر"
+    },
+    {
+      "en": "Meydan-e Jahad",
+      "fa": "میدان جهاد"
+    },
+    {
+      "en": "Teatr-e Shahr",
+      "fa": "تئاتر شهر"
+    },
+    {
+      "en": "Bustan-e Laleh",
+      "fa": "بوستان لاله"
+    }
+  ],
+  "Bustan-e Laleh": [
+    {
+      "en": "Meydan-e Hazrat Vali Asr",
+      "fa": "میدان حضرت ولی عصر"
+    },
+    {
+      "en": "Karagar",
+      "fa": "کارگر"
+    }
+  ],
+  "Karagar": [
+    {
+      "en": "Bustan-e Laleh",
+      "fa": "بوستان لاله"
+    },
+    {
+      "en": "Daneshgah-e Tarbiat Modarres",
+      "fa": "دانشگاه تربیت مدرس"
+    }
+  ],
+  "Daneshgah-e Tarbiat Modarres": [
+    {
+      "en": "Karagar",
+      "fa": "کارگر"
+    },
+    {
+      "en": "Boostan-e Goftegou",
+      "fa": "بوستان گفتگو"
+    },
+    {
+      "en": "Modafean-e Salamat",
+      "fa": "مدافعان سلامت"
+    },
+    {
+      "en": "Shahrak-e Azmayesh",
+      "fa": "شهرک آزمایش"
+    }
+  ],
+  "Shahrak-e Azmayesh": [
+    {
+      "en": "Daneshgah-e Tarbiat Modarres",
+      "fa": "دانشگاه تربیت مدرس"
+    },
+    {
+      "en": "Marzdaran",
+      "fa": "مرزداران"
+    }
+  ],
+  "Marzdaran": [
+    {
+      "en": "Shahrak-e Azmayesh",
+      "fa": "شهرک آزمایش"
+    },
+    {
+      "en": "Yadegar-e Imam",
+      "fa": "یادگار امام"
+    }
+  ],
+  "Yadegar-e Imam": [
+    {
+      "en": "Marzdaran",
+      "fa": "مرزداران"
+    },
+    {
+      "en": "Shahid Ashrafi Esfahani",
+      "fa": "شهید اشرفی اصفهانی"
+    }
+  ],
+  "Shahid Ashrafi Esfahani": [
+    {
+      "en": "Yadegar-e Imam",
+      "fa": "یادگار امام"
+    },
+    {
+      "en": "Shahid Sattari",
+      "fa": "شهید ستاری"
+    }
+  ],
+  "Shahid Sattari": [
+    {
+      "en": "Shahid Ashrafi Esfahani",
+      "fa": "شهید اشرفی اصفهانی"
+    },
+    {
+      "en": "Ayatollah Kashani",
+      "fa": "ایت الله کاشانی"
+    }
+  ],
+  "Ayatollah Kashani": [
+    {
+      "en": "Shahid Sattari",
+      "fa": "شهید ستاری"
+    }
+  ],
+  "Basij": [
+    {
+      "en": "Ahang",
+      "fa": "آهنگ"
+    }
+  ],
+  "Ahang": [
+    {
+      "en": "Basij",
+      "fa": "بسیج"
+    },
+    {
+      "en": "Chehel Tan-e Doulab",
+      "fa": "چهل تن دولاب"
+    }
+  ],
+  "Chehel Tan-e Doulab": [
+    {
+      "en": "Ahang",
+      "fa": "آهنگ"
+    },
+    {
+      "en": "Gheiam Square",
+      "fa": "میدان قیام"
+    }
+  ],
+  "Gheiam Square": [
+    {
+      "en": "Chehel Tan-e Doulab",
+      "fa": "چهل تن دولاب"
+    },
+    {
+      "en": "Mowlavi",
+      "fa": "مولوی"
+    }
+  ],
+  "Mowlavi": [
+    {
+      "en": "Gheiam Square",
+      "fa": "میدان قیام"
+    },
+    {
+      "en": "Meydan-e Mohammadiyeh",
+      "fa": "میدان محمدیه"
+    }
+  ],
+  "Helal Ahmar": [
+    {
+      "en": "Mahdiyeh",
+      "fa": "مهدیه"
+    },
+    {
+      "en": "Beryanak",
+      "fa": "بریانک"
+    }
+  ],
+  "Beryanak": [
+    {
+      "en": "Helal Ahmar",
+      "fa": "هلال احمر"
+    },
+    {
+      "en": "Kamil",
+      "fa": "کامیل"
+    }
+  ],
+  "Kamil": [
+    {
+      "en": "Beryanak",
+      "fa": "بریانک"
+    },
+    {
+      "en": "Roudaki",
+      "fa": "رودکی"
+    }
+  ],
+  "Roudaki": [
+    {
+      "en": "Kamil",
+      "fa": "کامیل"
+    },
+    {
+      "en": "Shahid Navab-e Safavi",
+      "fa": "شهید نواب صفوی"
+    }
+  ],
+  "Modafean-e Salamat": [
+    {
+      "en": "Towhid",
+      "fa": "توحید"
+    },
+    {
+      "en": "Daneshgah-e Tarbiat Modarres",
+      "fa": "دانشگاه تربیت مدرس"
+    }
+  ],
+  "Boostan-e Goftegou": [
+    {
+      "en": "Daneshgah-e Tarbiat Modarres",
+      "fa": "دانشگاه تربیت مدرس"
+    },
+    {
+      "en": "Milad Tower",
+      "fa": "برج میلاد"
+    }
+  ],
+  "Milad Tower": [
+    {
+      "en": "Boostan-e Goftegou",
+      "fa": "باغ گفتگو"
+    },
+    {
+      "en": "Meydan-e San'at",
+      "fa": "میدان صنعت"
+    }
+  ],
+  "Meydan-e San'at": [
+    {
+      "en": "Milad Tower",
+      "fa": "برج میلاد"
+    },
+    {
+      "en": "Shahid Dadman",
+      "fa": "شهید دادمان"
+    }
+  ],
+  "Shahid Dadman": [
+    {
+      "en": "Meydan-e San'at",
+      "fa": "میدان صنعت"
+    }
+  ]
+}

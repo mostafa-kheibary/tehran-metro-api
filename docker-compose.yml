@@ -1,0 +1,30 @@
+version: "3"
+
+services:
+  database:
+    image: "neo4j:5.9"
+    restart: unless-stopped
+    ports:
+      - 7474
+      - 7687
+    healthcheck:
+      test: ["CMD", "wget", "http://localhost:7474/browser"]
+      interval: 10s
+      timeout: 10s
+      retries: 2
+    volumes:
+      - ./database/conf:/conf:default
+      - ./database/data:/data:default
+      - ./database/import:/import:default
+      - ./database/logs:/logs:default
+      - ./database/plugins:/plugins:default
+  python_app:
+    build: .
+    ports:
+      - "8200:8200"
+    expose:
+      - 8200
+    depends_on:
+      database:
+        condition: service_healthy
+        restart: true
