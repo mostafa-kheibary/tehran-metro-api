@@ -85,7 +85,7 @@ pip install -r requirements.txt
 After setting up the database and environment, you need to migrate your data. Run the following command:
 
 ```bash
-python3 app/services/neo4j/migrate.py
+python3 migirate.py
 ```
 
 ### Step 6: Run the Project
